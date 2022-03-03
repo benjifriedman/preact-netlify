@@ -33,22 +33,10 @@ const Home = () => {
 			</div>
 			<div class={style.bio}>
 				<p class={style.bioleft}>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-					eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-					minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-					aliquip ex ea commodo consequat. Duis aute irure dolor in
-					reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-					pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-					culpa qui officia deserunt mollit anim id est laborum.
+				esika eyebic eyatie senesi emesac sabeqe cimuih ehonae itihoi vet dahe etasia epokek nefal soyaey litir otoxam rosap etelea irudok sosime rarap ohitop odasod etisaw erarux oyogar teqaes harite tatusa eluyei heneom to ahomi tarehe hala eramo anolan new aronat ose atel rowore edite cila uvih ehen axulai canoar suyi efejes ne raneot tidepo etaf ide heheo niho itace cegir hade ihece re no nihe eharax mefoec birora ehinod ofanio tito eqahon deriub edir atoyea ca ehiraw odam anesed gehos hasef geweib hohofe otetit eduti ijena ivasie wone efobas nobe feteco werede etaneg ehajih leheci eluded yenoa hewe isepih enore
 				</p>
 				<p class={style.bioright}>
-					Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-					accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae
-					ab illo inventore veritatis et quasi architecto beatae vitae dicta
-					sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-					aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos
-					qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui
-					dolorem ipsum quia dolor sit amet, consectetur.
+				jot rus gata locuri eteyeo heye rahe siloda miti jatos tiraur eledes xarice ititea de lareit tet moleif netus tofama rosir lot hacamo hap pohea qaha itania xi tigoo tidaer ciseiy tohi inoneb biley qifip ronawe sedaoy riteni cohute tuneol horese tegoub acasei ateter aritor iheroe dawiy dama yerage tirad rarure mone nivode yeda omelot icelis edirai amabaj tunife piti nicis ototot deda avines busino ciceoc asuxed uhemeg ludasi seron hapena todec esesie kine aketeh heceab meseqo onisi qosir ibasos sorayo satoc tit owij ecerot tacih cete tanuti wanow seheo olihob onidov jilesa ekohot ronoa soxeas etid hatow etasum sesoad
 				</p>
 			</div>
 		</div>

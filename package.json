@@ -10,8 +10,7 @@
     "start:development": "npm run -s dev",
     "build": "preact build --prerenderUrls ./prerender-urls.js",
     "dev": "preact watch --prerender --prerenderUrls ./prerender-urls.js",
-    "lint": "eslint src",
-    "test": "jest"
+    "lint": "eslint src"
   },
   "eslintConfig": {
     "extends": "eslint-config-synacor"
@@ -24,8 +23,6 @@
     "eslint-config-synacor": "^2.0.2",
     "esm": "^3.2.25",
     "glob": "^7.1.4",
-    "jest": "^21.2.1",
-    "jest-preset-preact": "^1.0.0",
     "markdown": "^0.5.0",
     "per-env": "^1.0.2",
     "preact-cli": "^3.0.1",
@@ -43,9 +40,6 @@
     "preact-render-to-string": "^5.1.10",
     "preact-router": "^3.0.1",
     "parse-md": "^2.0.4"
-  },
-  "jest": {
-    "preset": "jest-preset-preact"
   },
   "bugs": {
     "url": "https://github.com/preactjs/preact-netlify/issues"
