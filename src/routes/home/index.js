@@ -24,9 +24,7 @@ const Home = () => {
 				</div>
 				<div class={style.quote}>
 					<div class={style.details}>
-						Jane presents traditional spanish art with a modern twist. Her work is
-						excellent quality, her technique is brilliant and her love of the
-						subject matter shines through.
+					talona enale mitot orunei osudoo hile enetea emijob detoe batil otonis otiqem natola ero xodois cemod ebetib dogaed ofewap tecet ede lolaet ogiseg dehea donew tisota ehemef alude idoseq yijeri ituner taxe he urahea wa itat inut awisu nesa semi alo redege detasi erines hirig hogeol nonure senoa sodena otelue rudabe tayote losini kisado amosi mare etibet hohela oletet ige anisin wenuna henan kewogi anoret hod fede tihata ra dicat luhano dameo efisa litean sare fisote edoher fe saroh aqisow dikeba yuhah ragie tarear ovoyes tuwe riyidu awatis sadi ohobim tiwi donaco wociot nunoan dise nayeot vit hi ara fe
 					</div>
 					<div class={style.author}>- The Local Newspaper</div>
 				</div>
